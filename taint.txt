@@ -2,4 +2,7 @@ hello git
 taint add new
 産業目
 123456
+<<<<<<< HEAD
 1236546421312
+=======
+>>>>>>> ce52276dd25d9eeead7256668ae2cf3f770fe8a3
